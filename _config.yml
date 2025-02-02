@@ -1,7 +1,7 @@
 title: dean(dot)digital # name of the site
 author: Nick Dean # name of site's author
 email: nick@dean.digital # email of site's author
-url: https://dd-nostyle.netlify.app # root address of the site
+url: https://dean.digital # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   My corner on the web
@@ -9,7 +9,7 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "deandigital" # put your GoatCounter name if you want to use GoatCounter analytics
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
@@ -18,7 +18,7 @@ theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
-  lowercase_titles: true # show titles in lowercase in lists
+  lowercase_titles: false # show titles in lowercase in lists
 
 sass:
   style: compressed
