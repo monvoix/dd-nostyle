@@ -25,7 +25,8 @@ entries:
   
   - title: connect with me
     entries:
-      - title: 'email: nick (at) dean.digital'
+      - title: Email
+        url: /contact.html
       - title: Bluesky
         url: https://bsky.app/profile/dean.digital
       - title: Instagram 
