@@ -23,6 +23,11 @@ entries:
 #  - title: rss
 #    url: feed.xml
   
+  - title: what I'm up to 
+    entries: 
+    - title: now 
+      url: /now
+
   - title: connect with me
     entries:
       - title: Email

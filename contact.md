@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 ---
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" action="/success.html" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
   </p>
