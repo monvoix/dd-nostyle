@@ -15,3 +15,4 @@ a /now page inspired by the [kottke.org media diet](https://kottke.org/tag/media
 
 # 📕 reading 
 - [Absolution](https://app.thestorygraph.com/books/7044d738-e39d-4cd8-8304-f06ee90b0d39) by Jeff VanderMeer 
+- [Dark Matter](https://app.thestorygraph.com/books/8417e3b7-8ec3-4ca6-b269-579b56f234b2): A Century of Speculative Fiction from the African Diaspora
