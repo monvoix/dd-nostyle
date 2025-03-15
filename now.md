@@ -10,8 +10,9 @@ a /now page inspired by the [kottke.org media diet](https://kottke.org/tag/media
 - James Blake - [Like the End](https://music.apple.com/us/album/like-the-end/1776812822?i=1776812830)
 
 # 📺 watching 
-- [A Murder at the End of the World](https://www.hulu.com/series/aa1adbb2-bfd6-4d88-b709-5455bf953f9e)
+- [A Murder at the End of the World](https://www.hulu.com/series/aa1adbb2-bfd6-4d88-b709-5455bf953f9e) 
 - [White Lotus (season 3)](https://www.max.com/shows/white-lotus/s3/14f9834d-bc23-41a8-ab61-5c8abdbea505) 
+- [The Wheel of Time (season 3)](https://www.amazon.com/gp/video/detail/B0D2VH77R1/ref=atv_dp_share_cu_r)
 
 # 📕 reading 
 - [Absolution](https://app.thestorygraph.com/books/7044d738-e39d-4cd8-8304-f06ee90b0d39) by Jeff VanderMeer 
