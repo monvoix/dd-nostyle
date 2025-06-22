@@ -2,8 +2,9 @@
 layout: page
 title: now
 ---
-a /now page inspired by the [kottke.org media diet](https://kottke.org/tag/media%20diet)
-last uodated: June 22 2025
+a /now page inspired by the [kottke.org media diet](https://kottke.org/tag/media%20diet)  
+
+last updated: June 22 2025
 
 # 🎧 listening
 - Miley Cyrus - [Something Beautiful](https://music.apple.com/us/album/something-beautiful/1804974240)
