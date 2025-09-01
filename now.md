@@ -20,4 +20,4 @@ last updated: June 22 2025
 
 
 # 📕 reading 
- <iframe src="goodreads.html"></iframe>
+ <iframe src="goodreads.html" width="300px" height="600px"></iframe>
