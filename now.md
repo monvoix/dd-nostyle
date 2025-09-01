@@ -20,4 +20,4 @@ last updated: June 22 2025
 
 
 # 📕 reading 
- <iframe src="goodreads.html" width="300px" height="600px"></iframe>
+Visit my [read shelf on Goodreads](https://www.goodreads.com/review/list/624898?shelf=read&sort=date_read)
