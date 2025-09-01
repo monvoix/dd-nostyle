@@ -4,7 +4,7 @@ title: now
 ---
 a /now page inspired by the [kottke.org media diet](https://kottke.org/tag/media%20diet)  
 
-last updated: June 22 2025
+last updated: August 31 2025
 
 # 🎧 listening
 - Florence + The Machine - [Everybody Scream](https://music.apple.com/us/album/everybody-scream/1833586446)
